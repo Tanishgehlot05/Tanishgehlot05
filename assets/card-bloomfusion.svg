@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="124" viewBox="0 0 880 124" role="img" aria-label="BloomFusion, a key-value database in C++ that puts a Bloom filter in front of a wide B-tree.">
+  <title>BloomFusion</title>
+  <rect x="0.5" y="0.5" width="879" height="115" rx="14" fill="#0F141C" stroke="#252D39"/>
+  <rect x="28" y="30" width="56" height="56" rx="12" fill="#131A24" stroke="#252D39"/>
+  <g transform="translate(28 30)"><rect x="10" y="19" width="8" height="8" rx="2" fill="#8AB4D8"/><rect x="20.5" y="19.5" width="7" height="7" rx="1.5" fill="none" stroke="#8AB4D8" stroke-opacity="0.55"/><rect x="30" y="19" width="8" height="8" rx="2" fill="#8AB4D8"/><rect x="40" y="19" width="8" height="8" rx="2" fill="#8AB4D8"/><rect x="10.5" y="31.5" width="7" height="7" rx="1.5" fill="none" stroke="#8AB4D8" stroke-opacity="0.55"/><rect x="20" y="31" width="8" height="8" rx="2" fill="#8AB4D8"/><rect x="30.5" y="31.5" width="7" height="7" rx="1.5" fill="none" stroke="#8AB4D8" stroke-opacity="0.55"/><rect x="40" y="31" width="8" height="8" rx="2" fill="#8AB4D8"/></g>
+  <text x="108" y="52" font-family="Inter, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#E8EDF3">BloomFusion</text>
+  <text x="108" y="77" font-family="Inter, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9AA6B5">A key-value database: a Bloom filter in front of a wide B-tree, with a benchmark.</text>
+  <text x="108" y="99" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#8AB4D8">C++  ·  Bloom filter  ·  B-tree</text>
+  <text x="838" y="65" font-family="Inter, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#6B7685">→</text>
+</svg>

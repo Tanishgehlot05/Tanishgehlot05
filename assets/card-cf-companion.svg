@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="124" viewBox="0 0 880 124" role="img" aria-label="CF Companion, a GNOME Shell extension for Codeforces contests. JavaScript, GNOME Shell 46, version 2.0.0.">
+  <title>CF Companion</title>
+  <rect x="0.5" y="0.5" width="879" height="115" rx="14" fill="#0F141C" stroke="#252D39"/>
+  <rect x="28" y="30" width="56" height="56" rx="12" fill="#131A24" stroke="#252D39"/>
+  <g transform="translate(28 30)"><rect x="14" y="26" width="8" height="14" rx="2" fill="#8AB4D8"/>
+    <rect x="24" y="14" width="8" height="26" rx="2" fill="#8AB4D8"/>
+    <rect x="34" y="21" width="8" height="19" rx="2" fill="#8AB4D8"/></g>
+  <text x="108" y="52" font-family="Inter, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#E8EDF3">CF Companion</text>
+  <text x="108" y="77" font-family="Inter, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9AA6B5">Codeforces contests, countdowns, reminders and friends in your GNOME top bar.</text>
+  <text x="108" y="99" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#8AB4D8">JavaScript  ·  GNOME Shell 46  ·  v2.0.0</text>
+  <text x="838" y="65" font-family="Inter, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#6B7685">→</text>
+</svg>
