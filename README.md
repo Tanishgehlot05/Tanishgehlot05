@@ -1,34 +1,28 @@
-![Tanish Kumar — Computer Science student at IIT Ropar, exploring systems and building developer tools.](assets/profile-header.gif)
+# Tanish Kumar
 
-## Tanish Kumar
+Computer Science student at IIT Ropar. I build small developer tools and like learning how systems and databases work underneath.
 
-Computer Science student at IIT Ropar. I build developer tools, study systems and databases, and enjoy competitive programming. I also explore machine learning and computer vision.
+I also practise competitive programming on Codeforces as [kumar_Tanish05](https://codeforces.com/profile/kumar_Tanish05).
 
-**GitHub:** [@Tanishgehlot05](https://github.com/Tanishgehlot05) · [Browse all repositories](https://github.com/Tanishgehlot05?tab=repositories)
+## Projects
 
-## Featured projects
+**[CF Companion](https://github.com/Tanishgehlot05/cf-companion)** · JavaScript
+A GNOME Shell extension that shows upcoming and live Codeforces contests in the top bar, with countdowns, reminders, starred contests, your profile and friends, and five colour themes. Version 2.0.0 works with GNOME Shell 46. [Download the release](https://github.com/Tanishgehlot05/cf-companion/releases/tag/v2.0.0).
 
-[**cf-companion**](https://github.com/Tanishgehlot05/cf-companion) · **JavaScript**  
-A GNOME Shell extension that tracks Codeforces contests with a panel countdown and desktop notifications. An optional backend adds Telegram reminders and friend standings.
+**[BloomFusion](https://github.com/Tanishgehlot05/BloomFusion)** · C++
+A small key-value database I wrote to learn how a Bloom filter placed in front of a wide B-tree speeds up lookups. It includes a benchmark against `std::map` and `std::unordered_map`.
 
----
+**SmartMail AI Agent** · Node.js
+Gmail automation with email filtering and Telegram alerts for important messages.
+<!-- If this repository is public, make the name a link: **[SmartMail AI Agent](https://github.com/Tanishgehlot05/YOUR-REPO-NAME)** -->
+<!-- Check that the description above matches the real project, and edit it if not. -->
 
-[**BloomFusion**](https://github.com/Tanishgehlot05/BloomFusion) · **C++**  
-A learning project for a key-value database that combines a Bloom filter with a wide B-tree for lookup and storage.
+## Currently
 
----
+- Keeping CF Companion working and tidy.
+- Reading about storage structures and indexing.
 
-[**Hardwired-control-unit-mini-processor**](https://github.com/Tanishgehlot05/Hardwired-control-unit-mini-processor) · **Verilog**  
-A simplified processor control unit built around a hardwired finite-state machine, with a testbench and waveform artifacts.
+## Contact
 
-## Technologies and interests
-
-- **Languages:** C++, JavaScript, Verilog.
-- **Systems:** GNOME Shell extensions, data structures, processor control logic.
-- **Data and exploration:** Bloom filters, B-trees, machine learning and computer vision.
-
-## Current interests
-
-- Developer tooling for competitive programming and contest workflows.
-- Storage structures, indexing, and database lookups.
-- Digital design and control logic for a small processor.
+- Codeforces: [kumar_Tanish05](https://codeforces.com/profile/kumar_Tanish05)
+- Email: <!-- add your email here, or delete this line -->
