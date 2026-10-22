@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
+  <title id="title">Tanish Kumar — Computer Science at IIT Ropar</title>
+  <desc id="desc">A quiet midnight mountain landscape beside an introduction to Tanish Kumar.</desc>
+  <defs>
+    <linearGradient id="ground" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10151d"/><stop offset=".58" stop-color="#101824"/><stop offset="1" stop-color="#0b1016"/></linearGradient>
+    <linearGradient id="haze" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0d1117"/><stop offset=".48" stop-color="#0d1117" stop-opacity=".96"/><stop offset=".72" stop-color="#101824" stop-opacity=".55"/><stop offset="1" stop-color="#101824" stop-opacity=".05"/></linearGradient>
+    <linearGradient id="ridgeA" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#1c2635"/><stop offset="1" stop-color="#111822"/></linearGradient>
+    <linearGradient id="ridgeB" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#182231"/><stop offset="1" stop-color="#0d131b"/></linearGradient>
+    <radialGradient id="moon"><stop stop-color="#d7e0f2"/><stop offset="1" stop-color="#8497ba"/></radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1500" height="500" fill="url(#ground)"/>
+  <ellipse cx="1110" cy="260" rx="390" ry="112" fill="#536889" opacity=".12" filter="url(#soft)"/>
+  <path d="M660 230 Q790 175 900 205 Q1005 233 1090 188 Q1178 141 1278 197 Q1370 139 1500 158 L1500 500 660 500Z" fill="#141d29" opacity=".74"/>
+  <path d="M680 274 Q820 184 924 208 Q1028 243 1120 181 Q1206 130 1290 196 Q1386 118 1500 149 L1500 500 680 500Z" fill="url(#ridgeA)"/>
+  <path d="M635 318 Q790 250 893 270 Q1000 295 1086 245 Q1180 199 1270 246 Q1380 198 1500 215 L1500 500 635 500Z" fill="url(#ridgeB)"/>
+  <path d="M685 350 Q827 284 940 310 Q1034 332 1127 279 Q1227 231 1322 274 Q1403 244 1500 255 L1500 500 685 500Z" fill="#101720" opacity=".92"/>
+  <path d="M720 387 Q846 322 956 345 Q1064 368 1152 317 Q1253 273 1336 314 Q1414 286 1500 300 L1500 500 720 500Z" fill="#0d131b"/>
+  <g fill="none" stroke="#8499bb" stroke-width="1" opacity=".2">
+    <path d="M765 174 Q894 176 947 223 T1084 263 Q1141 269 1192 241 T1328 214 Q1404 205 1474 225"/>
+    <path d="M743 186 Q878 184 930 232 T1080 275 Q1148 280 1202 252 T1335 226 Q1414 218 1483 239"/>
+    <path d="M715 200 Q850 196 907 245 T1072 290 Q1148 294 1211 265 T1342 241 Q1420 233 1492 254"/>
+    <path d="M799 154 Q908 157 967 201 T1105 240 Q1170 244 1220 219 T1344 193 Q1420 187 1488 205"/>
+    <path d="M1002 376 Q1084 340 1160 356 T1308 353 Q1393 334 1490 363"/>
+    <path d="M1022 395 Q1095 361 1168 376 T1311 374 Q1400 355 1495 384"/>
+  </g>
+  <path d="M820 129 C930 142 944 223 1029 253 S1174 287 1106 327 S1025 356 1071 385" fill="none" stroke="#080d13" stroke-width="5" opacity=".6"/>
+  <path d="M820 129 C930 142 944 223 1029 253 S1174 287 1106 327 S1025 356 1071 385" fill="none" stroke="#a5b6d2" stroke-width="1.5" opacity=".78"/>
+  <circle cx="820" cy="129" r="8" fill="#a5b6d2" opacity=".09"/>
+  <circle cx="820" cy="129" r="3" fill="#dbe5f5"/>
+  <circle cx="1234" cy="181" r="19" fill="url(#moon)" opacity=".92"/>
+  <rect width="1500" height="500" fill="url(#haze)"/>
+  <text x="78" y="112" fill="#9ca6b5" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="18" letter-spacing="1">Hi, I’m</text>
+  <text x="76" y="177" fill="#edf0f5" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="55" font-weight="650" letter-spacing="-1.6">Tanish Kumar</text>
+  <text x="79" y="217" fill="#a5b6d2" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="21" letter-spacing=".55">Computer Science · IIT Ropar</text>
+  <text x="79" y="274" fill="#c0c7d2" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="18">I build developer tools, explore systems and databases,</text>
+  <text x="79" y="304" fill="#c0c7d2" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="18">and turn ideas into practical software.</text>
+  <g fill="#a7b2c5" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" letter-spacing="2.3">
+    <text x="1006" y="54">CODE</text><text x="1082" y="54">BUILD</text><text x="1172" y="54">LEARN</text><text x="1260" y="54">EXPLORE</text>
+  </g>
+  <circle cx="1380" cy="50" r="3" fill="#bac9e2"/>
+</svg>
