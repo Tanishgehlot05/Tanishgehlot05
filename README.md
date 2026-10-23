@@ -1,20 +1,27 @@
-# Tanish Kumar
+<img src="assets/banner.svg" alt="Tanish Kumar, Computer Science student at IIT Ropar. Developer tools, systems and databases." width="100%">
 
-Computer Science undergrad at IIT Ropar (2024–2028). I like building software I can understand from the inside: data structures, compilers, desktop tools, and the systems beneath them.
+<p>
+  <a href="https://codeforces.com/profile/kumar_Tanish05"><img src="assets/chip-codeforces.svg" alt="Codeforces profile" height="38"></a>
+  <a href="https://github.com/Tanishgehlot05?tab=repositories"><img src="assets/chip-repositories.svg" alt="All repositories" height="38"></a>
+</p>
 
-Most of my recent work has been in C++ and JavaScript. I also use Python and Verilog, and spend time on competitive programming as [kumar_Tanish05](https://codeforces.com/profile/kumar_Tanish05).
+I build small developer tools and like learning how systems and databases work underneath. I also practise competitive programming on Codeforces as [kumar_Tanish05](https://codeforces.com/profile/kumar_Tanish05).
 
-## Selected work
+## Projects
 
-- [BloomFusion](https://github.com/Tanishgehlot05/BloomFusion) · C++ — A learning key-value database: a Bloom filter screens misses before a 16-way B-tree lookup. Includes read and write benchmarks.
-- [CF Companion](https://github.com/Tanishgehlot05/cf-companion) · JavaScript — A GNOME Shell extension for Codeforces contests, with top-bar countdowns and desktop reminders. Its optional service adds Telegram notifications and friend standings.
-- [SmartMail AI Agent](https://github.com/Tanishgehlot05/SmartMail-AI-Agent) · JavaScript — Gmail notifications and summaries, with Gemini-assisted email triage, deadline tracking, Telegram alerts, and a dashboard.
-- [Hardwired control unit mini processor](https://github.com/Tanishgehlot05/Hardwired-control-unit-mini-processor) · Verilog — A finite-state-machine control unit for a simplified processor, with a testbench and waveform artifacts.
+<a href="https://github.com/Tanishgehlot05/cf-companion"><img src="assets/card-cf-companion.svg" alt="CF Companion, a GNOME Shell extension for Codeforces contests. JavaScript, GNOME Shell 46, version 2.0.0." width="100%"></a>
+<a href="https://github.com/Tanishgehlot05/BloomFusion"><img src="assets/card-bloomfusion.svg" alt="BloomFusion, a key-value database in C++ that puts a Bloom filter in front of a wide B-tree." width="100%"></a>
+<!-- If the SmartMail repository is public, wrap the next line in a link, like the two cards above:
+<a href="https://github.com/Tanishgehlot05/YOUR-REPO-NAME"> ... </a>
+Also check that the card text matches the real project (assets/card-smartmail.svg). -->
+<img src="assets/card-smartmail.svg" alt="SmartMail AI Agent, Gmail automation with email filtering and Telegram alerts, built with Node.js." width="100%">
 
-## Away from projects
+## Stack
 
-Codeforces Specialist, peak rating 1470. More than 500 problems solved across Codeforces, LeetCode, GFG, CSES, AtCoder, and CodeStudio.
+<img src="assets/stack.svg" alt="Languages: C++, JavaScript, Verilog. Interests: GNOME Shell, data structures, Bloom filters, B-trees, machine learning, computer vision." width="100%">
 
-## Find me
+## Now
 
-[LinkedIn](https://www.linkedin.com/in/tanish-kumar05) · [Codeforces](https://codeforces.com/profile/kumar_Tanish05) · [Email](mailto:tanishgehlot5@gmail.com)
+<img src="assets/now.svg" alt="Currently: keeping CF Companion working and tidy; reading about storage structures and indexing." width="100%">
+
+<!-- Contact: add your email here, or leave it out. -->

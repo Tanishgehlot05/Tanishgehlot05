@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="132" viewBox="0 0 880 132" role="img" aria-label="Currently: keeping CF Companion working and tidy; reading about storage structures and indexing.">
+  <title>Currently</title>
+  <style>
+    .cursor { opacity: 1; }
+    @media (prefers-reduced-motion: no-preference) {
+      .cursor { animation: blink 1.2s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="879" height="123" rx="14" fill="#0F141C" stroke="#252D39"/>
+  <text x="28" y="42" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#8AB4D8">$</text>
+  <text x="48" y="42" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#E8EDF3">now</text>
+  <text x="48" y="74" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#9AA6B5"><tspan fill="#6B7685">›  </tspan>keeping CF Companion working and tidy</text>
+  <text x="48" y="100" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#9AA6B5"><tspan fill="#6B7685">›  </tspan>reading about storage structures and indexing</text>
+  <rect class="cursor" x="84" y="28" width="9" height="18" fill="#8AB4D8"/>
+</svg>
