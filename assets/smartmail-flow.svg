@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="190" viewBox="0 0 1100 190" role="img" aria-labelledby="title desc">
+  <title id="title">SmartMail event flow</title>
+  <desc id="desc">Gmail push events enter a webhook and processing pipeline. Gemini assists with triage; the system stores results in SQLite and sends Telegram alerts. Scheduled jobs prepare summaries and deadline reminders for the dashboard.</desc>
+  <rect width="1100" height="190" rx="14" fill="#F3F6F5"/>
+  <path d="M18 18h1064v154H18z" fill="none" stroke="#C7D3D3"/>
+  <g font-family="'Segoe UI', Arial, sans-serif" text-anchor="middle">
+    <rect x="40" y="64" width="135" height="56" rx="8" fill="#E6EFED" stroke="#42616A" stroke-width="2"/>
+    <text x="107" y="88" fill="#20323B" font-size="15">Gmail push</text>
+    <text x="107" y="108" fill="#536C72" font-size="12">new email event</text>
+    <path d="M175 92h51" stroke="#42616A" stroke-width="2"/><path d="m221 86 8 6-8 6" fill="none" stroke="#42616A" stroke-width="2"/>
+    <rect x="229" y="64" width="145" height="56" rx="8" fill="#E6EFED" stroke="#42616A" stroke-width="2"/>
+    <text x="301" y="88" fill="#20323B" font-size="15">webhook</text>
+    <text x="301" y="108" fill="#536C72" font-size="12">process and route email</text>
+    <path d="M374 92h51" stroke="#42616A" stroke-width="2"/><path d="m420 86 8 6-8 6" fill="none" stroke="#42616A" stroke-width="2"/>
+    <rect x="428" y="64" width="145" height="56" rx="8" fill="#F7E8DF" stroke="#D47B47" stroke-width="2"/>
+    <text x="500" y="88" fill="#6B422E" font-size="15">Gemini</text>
+    <text x="500" y="108" fill="#805A45" font-size="12">assist with triage</text>
+    <path d="M573 92h51" stroke="#42616A" stroke-width="2"/><path d="m619 86 8 6-8 6" fill="none" stroke="#42616A" stroke-width="2"/>
+    <rect x="627" y="64" width="145" height="56" rx="8" fill="#E6EFED" stroke="#42616A" stroke-width="2"/>
+    <text x="699" y="88" fill="#20323B" font-size="15">SQLite</text>
+    <text x="699" y="108" fill="#536C72" font-size="12">emails and deadlines</text>
+    <path d="M772 92h51" stroke="#42616A" stroke-width="2"/><path d="m818 86 8 6-8 6" fill="none" stroke="#42616A" stroke-width="2"/>
+    <rect x="826" y="64" width="145" height="56" rx="8" fill="#E6EFED" stroke="#42616A" stroke-width="2"/>
+    <text x="898" y="88" fill="#20323B" font-size="15">Telegram</text>
+    <text x="898" y="108" fill="#536C72" font-size="12">alerts and digests</text>
+  </g>
+  <path d="M301 120v31h542v-31" fill="none" stroke="#A9C4BF" stroke-width="2" stroke-dasharray="5 5"/>
+  <text x="572" y="165" text-anchor="middle" fill="#536C72" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">scheduled jobs → summaries · deadline reminders · dashboard</text>
+</svg>

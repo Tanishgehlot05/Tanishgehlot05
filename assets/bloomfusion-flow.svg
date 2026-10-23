@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="190" viewBox="0 0 1100 190" role="img" aria-labelledby="title desc">
+  <title id="title">BloomFusion lookup path</title>
+  <desc id="desc">A key is checked by a Bloom filter. A definite miss skips the tree; a possible match proceeds to the 16-way B-tree, which confirms whether the key exists.</desc>
+  <rect width="1100" height="190" rx="14" fill="#F3F6F5"/>
+  <path d="M18 18h1064v154H18z" fill="none" stroke="#C7D3D3"/>
+  <g font-family="'Segoe UI', Arial, sans-serif" text-anchor="middle">
+    <rect x="48" y="69" width="122" height="54" rx="8" fill="#E6EFED" stroke="#42616A" stroke-width="2"/>
+    <text x="109" y="102" fill="#20323B" font-size="16">lookup key</text>
+    <rect x="245" y="69" width="172" height="54" rx="8" fill="#E6EFED" stroke="#42616A" stroke-width="2"/>
+    <text x="331" y="93" fill="#20323B" font-size="16">Bloom filter</text>
+    <text x="331" y="112" fill="#536C72" font-size="12">fast pre-check</text>
+    <path d="M170 96h75M417 96h48" fill="none" stroke="#42616A" stroke-width="2"/>
+    <path d="m459 90 8 6-8 6" fill="none" stroke="#42616A" stroke-width="2"/>
+    <path d="M491 96v43h59M491 96v-42h59" fill="none" stroke="#42616A" stroke-width="2"/>
+    <rect x="550" y="27" width="174" height="50" rx="8" fill="#F7E8DF" stroke="#D47B47" stroke-width="2"/>
+    <text x="637" y="49" fill="#6B422E" font-size="15">definite miss</text>
+    <text x="637" y="67" fill="#805A45" font-size="12">skip tree search</text>
+    <rect x="550" y="114" width="174" height="50" rx="8" fill="#E6EFED" stroke="#42616A" stroke-width="2"/>
+    <text x="637" y="136" fill="#20323B" font-size="15">possible match</text>
+    <text x="637" y="154" fill="#536C72" font-size="12">check the index</text>
+    <path d="M724 139h52" fill="none" stroke="#42616A" stroke-width="2"/>
+    <path d="m771 133 8 6-8 6" fill="none" stroke="#42616A" stroke-width="2"/>
+    <rect x="779" y="114" width="180" height="50" rx="8" fill="#E6EFED" stroke="#42616A" stroke-width="2"/>
+    <text x="869" y="136" fill="#20323B" font-size="15">16-way B-tree</text>
+    <text x="869" y="154" fill="#536C72" font-size="12">confirm key and value</text>
+    <path d="M959 139h48" fill="none" stroke="#42616A" stroke-width="2"/>
+    <path d="m1002 133 8 6-8 6" fill="none" stroke="#42616A" stroke-width="2"/>
+    <text x="1040" y="144" fill="#20323B" font-size="14">result</text>
+  </g>
+  <text x="550" y="20" fill="#805A45" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">NO FALSE NEGATIVES</text>
+</svg>
