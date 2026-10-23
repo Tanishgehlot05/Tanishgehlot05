@@ -1,10 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="124" viewBox="0 0 880 124" role="img" aria-label="BloomFusion, a key-value database in C++ that puts a Bloom filter in front of a wide B-tree.">
-  <title>BloomFusion</title>
-  <rect x="0.5" y="0.5" width="879" height="115" rx="14" fill="#0F141C" stroke="#252D39"/>
-  <rect x="28" y="30" width="56" height="56" rx="12" fill="#131A24" stroke="#252D39"/>
-  <g transform="translate(28 30)"><rect x="10" y="19" width="8" height="8" rx="2" fill="#8AB4D8"/><rect x="20.5" y="19.5" width="7" height="7" rx="1.5" fill="none" stroke="#8AB4D8" stroke-opacity="0.55"/><rect x="30" y="19" width="8" height="8" rx="2" fill="#8AB4D8"/><rect x="40" y="19" width="8" height="8" rx="2" fill="#8AB4D8"/><rect x="10.5" y="31.5" width="7" height="7" rx="1.5" fill="none" stroke="#8AB4D8" stroke-opacity="0.55"/><rect x="20" y="31" width="8" height="8" rx="2" fill="#8AB4D8"/><rect x="30.5" y="31.5" width="7" height="7" rx="1.5" fill="none" stroke="#8AB4D8" stroke-opacity="0.55"/><rect x="40" y="31" width="8" height="8" rx="2" fill="#8AB4D8"/></g>
-  <text x="108" y="52" font-family="Inter, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#E8EDF3">BloomFusion</text>
-  <text x="108" y="77" font-family="Inter, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9AA6B5">A key-value database: a Bloom filter in front of a wide B-tree, with a benchmark.</text>
-  <text x="108" y="99" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#8AB4D8">C++  ·  Bloom filter  ·  B-tree</text>
-  <text x="838" y="65" font-family="Inter, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#6B7685">→</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="148" viewBox="0 0 880 148" role="img" aria-labelledby="title desc">
+  <title id="title">BloomFusion</title>
+  <desc id="desc">A C++ key-value database where a Bloom filter skips definite misses before the 16-way B-tree confirms a possible match. Includes read and write benchmarks.</desc>
+  <rect width="880" height="148" rx="10" fill="#F4F6F8" stroke="#CDD6E0"/>
+  <text x="30" y="44" fill="#1D2B3A" font-family="'Segoe UI', Arial, sans-serif" font-size="23" font-weight="700">BloomFusion</text>
+  <text x="30" y="75" fill="#425367" font-family="'Segoe UI', Arial, sans-serif" font-size="16">A Bloom filter skips definite misses before the 16-way B-tree search.</text>
+  <text x="30" y="108" fill="#526274" font-family="'Segoe UI', Arial, sans-serif" font-size="14">A C++ learning project with read and write benchmarks.</text>
+  <path d="M604 26v96" stroke="#CDD6E0"/>
+  <g font-family="'Segoe UI', Arial, sans-serif" text-anchor="middle">
+    <text x="648" y="44" fill="#526274" font-size="12">check first</text>
+    <g fill="#3D67C6">
+      <rect x="618" y="58" width="13" height="13" rx="2"/><rect x="635" y="58" width="13" height="13" rx="2"/>
+      <rect x="652" y="58" width="13" height="13" rx="2"/><rect x="669" y="58" width="13" height="13" rx="2"/>
+      <rect x="618" y="75" width="13" height="13" rx="2"/><rect x="635" y="75" width="13" height="13" rx="2"/>
+      <rect x="652" y="75" width="13" height="13" rx="2"/><rect x="669" y="75" width="13" height="13" rx="2"/>
+    </g>
+    <text x="651" y="108" fill="#526274" font-size="11">Bloom filter</text>
+    <path d="M690 74h30" stroke="#7B8B9C" stroke-width="1.5"/><path d="m716 70 6 4-6 4" fill="none" stroke="#7B8B9C" stroke-width="1.5"/>
+    <g stroke="#526274" stroke-width="1.5" fill="#E5ECF5">
+      <path d="M787 57 752 91M787 57l36 34" fill="none"/>
+      <rect x="761" y="40" width="52" height="32" rx="4"/>
+      <rect x="731" y="88" width="45" height="30" rx="4"/>
+      <rect x="800" y="88" width="45" height="30" rx="4"/>
+    </g>
+    <g fill="#3D67C6"><circle cx="775" cy="56" r="2.5"/><circle cx="787" cy="56" r="2.5"/><circle cx="799" cy="56" r="2.5"/></g>
+    <text x="788" y="134" fill="#526274" font-size="11">16-way B-tree</text>
+  </g>
+  <text x="30" y="134" fill="#3D67C6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">C++  /  storage  /  indexing</text>
 </svg>

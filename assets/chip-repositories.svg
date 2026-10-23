@@ -1,6 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="38" viewBox="0 0 160 38" role="img" aria-label="All repositories">
-  <title>All repositories</title>
-  <rect x="0.5" y="0.5" width="159" height="37" rx="10" fill="#0F141C" stroke="#252D39"/>
-  <text x="18" y="24" font-family="Inter, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#E8EDF3">All repositories</text>
-  <text x="132" y="24" font-family="Inter, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#8AB4D8">↗</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="46" viewBox="0 0 220 46" role="img" aria-labelledby="title desc">
+  <title id="title">Browse Tanish's repositories</title>
+  <desc id="desc">Open the list of Tanish's public GitHub repositories.</desc>
+  <rect x="0.75" y="0.75" width="218.5" height="44.5" rx="7" fill="#E9EEF4" stroke="#BFCAD6" stroke-width="1.5"/>
+  <path d="M19 18h14v13H19zM22 15h14v13" fill="none" stroke="#3D67C6" stroke-width="1.8" stroke-linejoin="round"/>
+  <text x="48" y="28" fill="#1D2B3A" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600">Browse repositories</text>
+  <path d="M197 17v12m-5-5 5 5 5-5" fill="none" stroke="#3D67C6" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
